@@ -3,6 +3,8 @@ package com.Lucky.lucky.Calculator;
 import java.util.function.DoubleBinaryOperator;
 //Creating enum Operation for handling different calculator operations such as
 // addition, subtraction, division, multiplication and percentages.
+//Enumeration List variables, going through a list one at a time.
+//Mini classes
 public enum Operation {
     ADDITION((x, y) -> x+y),
     SUBTRACTION((x, y) -> x-y),

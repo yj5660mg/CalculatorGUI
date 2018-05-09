@@ -3,7 +3,7 @@ package com.Lucky.lucky.Calculator;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//CREDIT Java Code Geeks for some of the help
 //Jbuttons, JPanel and JTextField created using the GUI.
 public class Calculator {
     private JTextField resultsTxt;
